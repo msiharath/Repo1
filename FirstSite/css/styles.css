@@ -1,0 +1,17 @@
+html {
+  font-family: "Arial";
+}
+
+h1 {
+  color: red;
+  font-size: 45px;
+}
+
+h2 {
+  color: #A65797;
+}
+
+ul{
+  color: #E76128;
+  padding: 10px;
+}
